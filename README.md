@@ -98,11 +98,13 @@ Modded EXE
 
 I've added the modded exe used for the comparison shots. The exe was modded to use `Hor+` instead of `Vert-`. It can be placed in `\steamapps\common\HatinTime\Binaries\Win64\` and renamed to `HatinTimeGame.exe`.
 
-The modded exe was modified from the [May 15th update #2](https://steamdb.info/patchnotes/3827253/). This exe will become outdated when the game receives an update.
+The modded exe was modified from the [May 17th modding update](https://steamcommunity.com/games/AHatinTime/announcements/detail/2894038190183080639). This exe will become outdated when the game receives an update.
 
-The game was updated while I was writing this, so I also put the modded exe from [May 11th update](https://steamcommunity.com/games/AHatinTime/announcements/detail/1609385662082175714) into `/May 11th binaries/`. This was the exe used for the screenshots.
+The images were originally taken with a modded exe from [May 11th update](https://steamcommunity.com/games/AHatinTime/announcements/detail/1609385662082175714). This exe has been placed into `/May 11th binaries/`.
 
-The modded exe was made with the HEX editor HxD to change the bytes `61 0B 36 3B` to `61 0B 66 3B`.
+The modded exe can be made with a HEX editor like HxD to change the bytes `61 0B 36 3B` to `61 0B 66 3B`.
+
+I've written a python script called `patch.py` which can generate the modded exe. To use, place in the `HatinTime\Binaries\Win64\` directory and run it. Written under python3, untested on python2.
 
 I came across these bytes as a solution suggested on WSGF: http://www.wsgf.org/dr/hat-time/en
 
