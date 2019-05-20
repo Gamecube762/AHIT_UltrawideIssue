@@ -14,20 +14,20 @@ Comparison
 
 For the comparison shots, a modded exe was used for `Hor+` images.
 
-Main Menu
+Main Menu (May 19th update)
 ---
 
 16:9 - Game Default ![alt text](/images/mainmenu_widescreen_default.png "16:9 - Game Default")
 
-21:9 - Game Default (May 11th update) ![alt text](/images/mainmenu_ultrawide_default.png "21:9 - Game Default")
+21:9 - Game Default ![alt text](/images/mainmenu_ultrawide_default.png "21:9 - Game Default")
 
-21:9 - Modded EXE (May 11th update) ![alt text](/images/mainmenu_ultrawide_modded.png "21:9 - Modded EXE")
+21:9 - Modded EXE ![alt text](/images/mainmenu_ultrawide_modded.png "21:9 - Modded EXE")
 
 The first thing I want to point out is how `21:9 - Game Default` looks like a direct cropped image of `16:9 - Game Default`. The most noticeable things I can point out is BowKid's button is no longer visible and the Main Menu's UI is cut off making it impossible to access the game's settings.
 
 With `21:9 - Modded EXE` BowKid is now just as visible as she is in `16:9 - Game Default`, we can see the button now!
 
-~~The Main Menu is still cut off on the top and bottom with the modded exe. The UI is trying to scale based on `Vert-`. It's trying to maintain it's horizontal width at the cost of verticality. With this new menu being designed around being vertical, UI elements end up off-screen.~~ This was patched with the [May 15th update](https://steamdb.info/patchnotes/3827253/)
+The UI cropping was patched with the [May 15th update](https://steamdb.info/patchnotes/3827253/).
 
 The Empress' Introduction Cutscene
 ---
