@@ -98,7 +98,7 @@ Modded EXE
 
 I've added the modded exe used for the comparison shots. The exe was modded to use `Hor+` instead of `Vert-`. It can be placed in `\steamapps\common\HatinTime\Binaries\Win64\` and renamed to `HatinTimeGame.exe`.
 
-The modded exe was modified from the [May 19th update](https://steamcommunity.com/games/AHatinTime/announcements/detail/2894038190191511566). This exe will become outdated when the game receives an update.
+~~The modded exe was modified from the [May 19th update](https://steamcommunity.com/games/AHatinTime/announcements/detail/2894038190191511566)~~. A hidden update was released on [May 23rd ( #6295086 )](https://steamdb.info/app/253230/history/). The modded exe was updated to this version. This exe will become outdated when the game receives an update.
 
 The images were originally taken with a modded exe from [May 11th update](https://steamcommunity.com/games/AHatinTime/announcements/detail/1609385662082175714). This exe has been placed into `/May 11th binaries/`.
 
