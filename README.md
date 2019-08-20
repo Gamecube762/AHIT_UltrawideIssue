@@ -98,7 +98,7 @@ Modded EXE
 
 I've added the modded exe used for the comparison shots. The exe was modded to use `Hor+` instead of `Vert-`. It can be placed in `\steamapps\common\HatinTime\Binaries\Win64\` and renamed to `HatinTimeGame.exe`.
 
-The modded exe was modified from the [June 6th update](https://steamcommunity.com/games/AHatinTime/announcements/detail/1599255098314218849). This exe will become outdated when the game receives an update.
+The modded exe was modified from the [Aug 19th update](https://steamcommunity.com/games/AHatinTime/announcements/detail/3184528679789852708). This exe will become outdated when the game receives an update.
 
 The images were originally taken with a modded exe from [May 11th update](https://steamcommunity.com/games/AHatinTime/announcements/detail/1609385662082175714). This exe has been placed into `/May 11th binaries/`.
 
@@ -123,7 +123,7 @@ AspectRatioAxisConstraint=AspectRatio_MaintainYFOV
 
 https://answers.unrealengine.com/questions/747293/change-engine-aspect-ratio-scaling-from-vert-to-ho.html
 
-Personal request:
+Personal request
 ---
 
 Add a way to disable the cinematic bars in cutscenes, Ultrawide is a popular cinematic ratio, we don't need *extra* levels of cinematography.
